@@ -6,13 +6,13 @@
 
 > *Users matter*.
 
-> Secretary Marybel Batjer, California [Government Operations Agency](http://www.govops.ca.gov)
+> Secretary Marybel Batjer, California Government Operations Agency
 
 > [Code for America Summit, November 2, 2016](https://www.youtube.com/watch?v=yb8fZrrDT00)
 
 ## We're putting user needs first
 
-California’s [Department of Technology](http://www.cio.ca.gov/) (CDT) is one of the largest technology suppliers for state and local government in California. Together with state agencies and entities, we deliver technology for everyone. To meet Secretary Batjer’s challenge, our department is changing: adding new skills and new capabilities to support a culture of understanding user needs – not just government needs – and making sure we meet them.
+Part of California's [Government Operations Agency](http://www.govops.ca.gov), the [Department of Technology](http://www.cio.ca.gov/) (CDT) is one of the largest technology suppliers for state and local government in California. Together with state agencies and entities, we deliver technology for everyone. To meet Secretary Batjer’s challenge, our department is changing: adding new skills and new capabilities to support a culture of understanding user needs – not just government needs – and making sure we meet them.
 
 ## What we've started 
 
