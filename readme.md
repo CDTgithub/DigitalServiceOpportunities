@@ -53,6 +53,8 @@ Join us, and help deliver simpler, clearer, faster digital services for everyone
 
 ## Digital service pool opportunities
 
+These opportunities are on-site in the Sacramento region, with flexibility for remote work.
+
 ### 1. Principal, User researcher
 
 * plan a research program for a service
@@ -95,7 +97,7 @@ For reference only, see the [GDS job description for Technical Architect](/roles
 
 ## Digital service team opportunities 
 
-These opportunities are with the California Child Welfare Digital Service.
+These opportunities are with the California Child Welfare Digital Service. They're on-site in the Sacramento region, with flexibility for remote work.
 
 ### 1. Dev/Ops
 
@@ -127,7 +129,9 @@ For reference only, see the [GDS job description for Junior Visual designer](/ro
 
 Separate from the above digital service opportunities, open positions are posted on the Department of Technology website. If you’re interested in building a career, you can [learn how to become a permanent employee](http://cio.ca.gov/About/Careers/index.html) with the State of California. You can also find out about the benefits the State offers, like retirement, healthcare, and learn about the stability of working for the public sector.
 
-The below positions are open as of 8 December, 2016. Current vacancies are [updated daily](http://cio.ca.gov/About/JobOpenings.asp) on the CDT website.
+The below positions are open as of 8 December, 2016. They are in the Sacramento region at CDT project sites.
+
+Current vacancies are [updated daily](http://cio.ca.gov/About/JobOpenings.asp) on the CDT website.
 
 ### Digital services
 
