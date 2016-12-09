@@ -6,7 +6,7 @@
 
 > *Users matter*.
 
-> Secretary Marybel Batjer, California Government Operations Agency
+> Secretary Marybel Batjer, California [Government Operations Agency](http://www.govops.ca.gov)
 
 > [Code for America Summit, November 2, 2016](https://www.youtube.com/watch?v=yb8fZrrDT00)
 
