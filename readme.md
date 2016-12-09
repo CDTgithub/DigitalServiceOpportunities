@@ -1,4 +1,4 @@
-![The logo of the California Department of Technology](/images/CalTech.png) 
+![The great Seal of the State of California](/images/GreatSeal.png) 
 
 # Digital Services for the State of California
 
@@ -125,7 +125,9 @@ For reference only, see the [GDS job description for Junior Visual designer](/ro
 
 ## Current open positions at the California Department of Technology
 
-Separate from the above digital service opportunities, open positions are posted on the Department of Technology website, with instructions about how you can become a new State employee. You can also find out about the benefits the State offers, like retirement, healthcare, and learn about the stability of working for the public sector.  
+Separate from the above digital service opportunities, open positions are posted on the Department of Technology website. If you’re interested in building a career, you can [learn how to become a permanent employee](http://cio.ca.gov/About/Careers/index.html) with the State of California. You can also find out about the benefits the State offers, like retirement, healthcare, and learn about the stability of working for the public sector.
+
+The below positions are open as of 8 December, 2016. Current vacancies are [updated daily](http://cio.ca.gov/About/JobOpenings.asp) on the CDT website.
 
 ### Digital services
 
