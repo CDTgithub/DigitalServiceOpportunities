@@ -16,6 +16,8 @@ California’s [Department of Technology](http://www.cio.ca.gov/) is one of the 
 
 ## What we've started 
 
+![Some of the Child Welfare Digital Service team at an 18F workshop session](/images/CWDS.jpeg) 
+
 Our demonstrator projects (the [California’s Child Welfare Digital Service](https://cwds.ca.gov), and more to come) start by understanding user needs, work iteratively with the private sector partners, and build in the open: because it makes things better.
 
 At the [California Health and Human Services Agency](http://www.chhs.ca.gov) (CHHS), the [Office for Systems Integration](http://osi.ca.gov) (OSI) has the massive undertaking of being responsible for all the technology that delivers critical health and human services for all Californians, like child welfare. With the Child Welfare Digital Service, CHHS and OSI in partnership with the California Department of Technology have risen the challenge of making sure our technology meets users' needs.
