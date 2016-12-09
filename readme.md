@@ -12,7 +12,7 @@
 
 ## We're putting user needs first
 
-Part of California's [Government Operations Agency](http://www.govops.ca.gov), the [Department of Technology](http://www.cio.ca.gov/) (CDT) is one of the largest technology suppliers for state and local government in California. Together with state agencies and entities, we deliver technology for everyone. To meet Secretary Batjer’s challenge, our department is changing: adding new skills and new capabilities to support a culture of understanding user needs – not just government needs – and making sure we meet them.
+Part of California's [Government Operations Agency](http://www.govops.ca.gov), the [Department of Technology](http://www.cio.ca.gov/) (CDT) is one of the largest technology suppliers for state and local government in California. Together with state agencies and entities, we deliver technology for everyone. To meet Secretary Batjer’s challenge, our department is changing: adding new skills and new capabilities to support a culture of understanding user needs – [not just government needs](https://www.gov.uk/design-principles) – and making sure we meet them.
 
 ## What we've started 
 
@@ -151,3 +151,9 @@ The below positions are open as of 8 December, 2016. Current vacancies are [upda
 
 ### 1.	Senior Analyst and/or Managerial positions* Security Auditing and Assessment* Security Governance, Risk and Compliance* IT Project Oversight* IT Procurement & Oversight* IT Project Management* Network Management
 ### 2.	Technical Lead positions* Digital Services* Infrastructure Security* Security Vulnerability and Compliance Management* Network Engineering* Network Architecture & Security Engineering* Cloud Computing and Services* AIX Support* Mainframe Operating System Support* Storage Support* Database Products (DB2, eCommerce, ADABAS, CICS, IDMS)  * Windows Operations & Support### 3.	Analyst positions* IT Procurement and Oversight* Infrastructure Change Management* Data Center Processing Support* Service Desk Support* PeopleSoft ERP Operational Support* PeopleSoft Programming Support
+
+* * * 
+
+With thanks to [Code for America](https://www.codeforamerica.org), [18F](https://18f.gsa.gov), the [U.S. Digital Service](https://www.usds.gov) and the U.K. [Government Digital Service](https://gds.blog.gov.uk/about/).
+
+Made in California.
