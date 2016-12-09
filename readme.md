@@ -53,7 +53,7 @@ Join us, and help deliver simpler, clearer, faster digital services for everyone
 
 ## Digital service pool opportunities
 
-### 1. Principle, User researcher
+### 1. Principal, User researcher
 
 * plan a research program for a service
 * develop clear understanding and empathy for users* design, conduct and analyze user research using a range of techniques
@@ -62,7 +62,7 @@ Join us, and help deliver simpler, clearer, faster digital services for everyone
 
 For reference only, see the [U.K. Government Digital Service (GDS) job description for User researcher](/roles/GDSUserResearcher.md)
 	
-### 2. Principle, Designer
+### 2. Principal, Designer
 
 * run and lead service design workshops
 * create and rapidly iterate service prototypes
@@ -70,7 +70,7 @@ For reference only, see the [U.K. Government Digital Service (GDS) job descripti
 * identify, design and set California cross-government service design standards and patterns	
 For reference only, see the [GDS job description for Designer](/roles/GDSDesigner.md)
 
-### 3. Principle, Content Designer
+### 3. Principal, Content Designer
 
 * run and lead service design workshops
 * create and rapidly iterate service prototypes
