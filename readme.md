@@ -12,7 +12,7 @@
 
 ## We're putting user needs first
 
-California’s [Department of Technology](http://www.cio.ca.gov/) is one of the largest technology suppliers for state and local government in California. Together with state agencies and entities, we deliver technology for everyone. To meet Secretary Batjer’s challenge, our department is changing: adding new skills and new capabilities to support a culture of understanding user needs – not just government needs – and making sure we meet them.
+California’s [Department of Technology](http://www.cio.ca.gov/) (CDT) is one of the largest technology suppliers for state and local government in California. Together with state agencies and entities, we deliver technology for everyone. To meet Secretary Batjer’s challenge, our department is changing: adding new skills and new capabilities to support a culture of understanding user needs – not just government needs – and making sure we meet them.
 
 ## What we've started 
 
@@ -20,15 +20,17 @@ California’s [Department of Technology](http://www.cio.ca.gov/) is one of the 
 
 Our demonstrator projects (the [California’s Child Welfare Digital Service](https://cwds.ca.gov), and more to come) start by understanding user needs, work iteratively with the private sector partners, and build in the open: because it makes things better.
 
-At the [California Health and Human Services Agency](http://www.chhs.ca.gov) (CHHS), the [Office for Systems Integration](http://osi.ca.gov) (OSI) has the massive undertaking of being responsible for all the technology that delivers critical health and human services for all Californians, like child welfare. With the Child Welfare Digital Service, CHHS and OSI in partnership with the California Department of Technology have risen the challenge of making sure our technology meets users' needs.
+You can [read more about the Child Welfare Digital Service](https://18f.gsa.gov/2016/11/17/leadership-innovation-california-child-welfare-services/) in a blog post hosted by our friends at [18F](https://18f.gsa.gov) by Stuart Drown, the deputy Secretary for California's [Government Operations Agency](http://www.govops.ca.gov) and Michael Wilkening, the under-Secretary for California's [Health and Human Services Agency](http://www.chhs.ca.gov) (CHHS).
 
-But, there's more work to do. 
+At CHHS, the [Office for Systems Integration](http://osi.ca.gov) (OSI) has the massive job of being responsible for all the technology behind health and human services for all Californians, like child welfare. With the Child Welfare Digital Service, CHHS and OSI, in partnership with the California Department of Technology, have risen to the challenge of making sure our technology meets users' needs.
+
+But, there's a lot more to do. 
 
 ## Join us 
 
 Our work in modernizing and building delivering new digital services for the state means we need people who're experienced in designing and delivering shared services across multiple technical platforms.  
 
-We're looking for researchers, designers, content designers, strategists, architects, developers and more to deliver digital services that meet user needs.
+Across the Department of Technology, the Office for Systems Integration and new teams like the Child Welfare Digital Service, we're looking for researchers, designers, content designers, strategists, architects, developers and more to deliver digital services that meet user needs.
 
 Join us, and help deliver simpler, clearer, faster digital services for everyone in California.
 
@@ -43,7 +45,7 @@ Join us, and help deliver simpler, clearer, faster digital services for everyone
 3. To apply for a... 
 	* digital service pool opportunity, email [Adrian Farley](mailto:Adrian.Farley@state.ca.gov?subject=Digital service pool opportunity) with your resume and a note about which opportunity you're applying for
 	* digital service team ([California Child Welfare Digital Service](https://cwds.ca.gov)) opportunity, email to [Adrian Farley](mailto:Adrian.Farley@state.ca.gov?subject=Digital service team opportunity) with your resume and a note about which opportunity you're applying for
-	* open or future California Department of Technology position, send an email to [[Melissa Matsuura](mailto:Melissa.Matsuura@state.ca.gov)] to get started
+	* open or future California Department of Technology position, send an email to [Melissa Matsuura](mailto:Melissa.Matsuura@state.ca.gov) to get started
 
 * * * 
 
