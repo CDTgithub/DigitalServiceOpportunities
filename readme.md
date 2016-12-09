@@ -22,7 +22,9 @@ Our demonstrator projects (the [California’s Child Welfare Digital Service](ht
 
 You can [read more about the Child Welfare Digital Service](https://18f.gsa.gov/2016/11/17/leadership-innovation-california-child-welfare-services/) in a blog post hosted by our friends at [18F](https://18f.gsa.gov).
 
-At CHHS, the [Office for Systems Integration](http://osi.ca.gov) (OSI) has the massive job of being responsible for all the technology behind health and human services for all Californians, like child welfare. With the Child Welfare Digital Service, CHHS and OSI, with the California Department of Technology, have risen to the challenge of making sure our technology meets users' needs.
+California's [Health and Human Services Agency](http://www.chhs.ca.gov) (CHHS) handles important services like [social services](http://www.dss.cahwnet.gov/cdssweb/default.htm), [public health](http://www.cdph.ca.gov/Pages/Default.aspx) and [Medi-Cal](http://www.dhcs.ca.gov/Pages/default.aspx), the Medicaid program. The [Office for Systems Integration](http://osi.ca.gov) (OSI) runs the technology for all these services. 
+
+With the Child Welfare Digital Service, CHHS and OSI, with California's Department of Technology, have started the work of making sure our technology meets users' needs.
 
 But, there's a lot more to do. 
 
