@@ -18,11 +18,11 @@ California’s [Department of Technology](http://www.cio.ca.gov/) (CDT) is one o
 
 ![Some of the Child Welfare Digital Service team at an 18F workshop session](/images/CWDS.jpeg) 
 
-Our demonstrator projects (the [California’s Child Welfare Digital Service](https://cwds.ca.gov), and more to come) start by understanding user needs, work iteratively with the private sector partners, and build in the open: because it makes things better.
+Our demonstrator projects (the [California’s Child Welfare Digital Service](https://cwds.ca.gov), and more to come) start by understanding user needs. Then, we work iteratively with private sector partners. Finally, we build in the open: because it makes things better.
 
-You can [read more about the Child Welfare Digital Service](https://18f.gsa.gov/2016/11/17/leadership-innovation-california-child-welfare-services/) in a blog post hosted by our friends at [18F](https://18f.gsa.gov) by Stuart Drown, the deputy Secretary for California's [Government Operations Agency](http://www.govops.ca.gov) and Michael Wilkening, the under-Secretary for California's [Health and Human Services Agency](http://www.chhs.ca.gov) (CHHS).
+You can [read more about the Child Welfare Digital Service](https://18f.gsa.gov/2016/11/17/leadership-innovation-california-child-welfare-services/) in a blog post hosted by our friends at [18F](https://18f.gsa.gov).
 
-At CHHS, the [Office for Systems Integration](http://osi.ca.gov) (OSI) has the massive job of being responsible for all the technology behind health and human services for all Californians, like child welfare. With the Child Welfare Digital Service, CHHS and OSI, in partnership with the California Department of Technology, have risen to the challenge of making sure our technology meets users' needs.
+At CHHS, the [Office for Systems Integration](http://osi.ca.gov) (OSI) has the massive job of being responsible for all the technology behind health and human services for all Californians, like child welfare. With the Child Welfare Digital Service, CHHS and OSI, with the California Department of Technology, have risen to the challenge of making sure our technology meets users' needs.
 
 But, there's a lot more to do. 
 
