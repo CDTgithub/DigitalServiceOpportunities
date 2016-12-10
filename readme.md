@@ -40,6 +40,8 @@ Join us, and help deliver simpler, clearer, faster digital services for everyone
 
 ### 1. Read the opportunities, open positions and future open positions below
 
+* They're all on-site in the Sacramento region with flexibility for remote work. 
+
 ### 2. Have a question? 
  * [Submit a Github Issue](https://github.com/CDTgithub/DigitalServiceOpportunities/issues) (we'd prefer that, to keep things in the open)
  * If it's something you'd like to keep private, then send an email to [Melissa Matsuura](mailto:Melissa.Matsuura@state.ca.gov)
