@@ -51,6 +51,10 @@ Join us, and help deliver simpler, clearer, faster digital services for everyone
  * digital service team ([California Child Welfare Digital Service](https://cwds.ca.gov)) opportunity, email [Adrian Farley](mailto:Adrian.Farley@state.ca.gov?subject=Digital service team opportunity) with your resume and a note about which opportunity you're applying for
  * open or future California Department of Technology position, email [Melissa Matsuura](mailto:Melissa.Matsuura@state.ca.gov) to get started
 
+## Get updates about new opportunities and positions
+
+[Sign up](http://eepurl.com/csUbhb) to our mailing list to get updates about new opportunities and positions.
+
 * * * 
 
 ## Digital service pool opportunities
