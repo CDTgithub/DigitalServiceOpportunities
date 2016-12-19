@@ -14,6 +14,15 @@
 
 Part of California's [Government Operations Agency](http://www.govops.ca.gov), the [Department of Technology](http://www.cio.ca.gov/) (CDT) is one of the largest technology suppliers for state and local government in California. Together with state agencies and entities, we deliver technology for everyone. To meet Secretary Batjer’s challenge, our department is changing: adding new skills and new capabilities to support a culture of understanding user needs – [not just government needs](https://www.gov.uk/design-principles) – and making sure we meet them.
 
+## How you can learn more
+
+On Wednesday (12/21/16) at 9 AM Pacific, the California Department of Technology will host a [webinar](https://attendee.gotowebinar.com/register/4914661224945424642) with the Government Operations Agency and the Office of Systems Integration to discuss digital services opportunities in California. Be sure to [register](https://attendee.gotowebinar.com/register/4914661224945424642).  
+
+Topics to be convered, include:
+* [The Hiring Process](https://drive.google.com/file/d/0B4Vpj-mE4-HFVVEwczBpYVpiU0k/view?usp=sharing);
+* [Hiring FAQs](https://drive.google.com/file/d/0B4Vpj-mE4-HFQzNFMzRUeURtY3M/view?usp=sharing); and 
+* [Employee Benefits](https://drive.google.com/file/d/0B4Vpj-mE4-HFaXpqdWplaWpVMTQ/view?usp=sharing).
+
 ## What we've started 
 
 ![Some of the Child Welfare Digital Service team at an 18F workshop session](/images/CWDS.jpeg) 
