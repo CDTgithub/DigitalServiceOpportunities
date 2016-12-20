@@ -53,7 +53,7 @@ Join us, and help deliver simpler, clearer, faster digital services for everyone
 
 ## Get updates about new opportunities and positions
 
-[Sign up](http://eepurl.com/csUbhb) to our mailing list to get updates about new opportunities and positions.
+[Join our mailing list](http://eepurl.com/csUbhb) to get updates about new opportunities and positions.
 
 * * * 
 
