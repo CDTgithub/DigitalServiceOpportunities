@@ -16,7 +16,7 @@ Part of California's [Government Operations Agency](http://www.govops.ca.gov), t
 
 ## Learn more on Wednesday 21st December, 9am Pacific
 
-On Wednesday (12/21/16) at 9 AM Pacific, California's Department of Technology will host a [webinar](https://attendee.gotowebinar.com/register/4914661224945424642) with the Government Operations Agency and the Office of Systems Integration to discuss digital services opportunities in California. Be sure to [register](https://attendee.gotowebinar.com/register/4914661224945424642).  
+On Wednesday (12/21/16) at 9 AM Pacific, California's Department of Technology will host a [Q & A session](https://attendee.gotowebinar.com/register/4914661224945424642) with the Government Operations Agency and the Office of Systems Integration to discuss digital services opportunities in California. Be sure to [register](https://attendee.gotowebinar.com/register/4914661224945424642) for the Q & A.   
 
 We'll cover topics like:
 
