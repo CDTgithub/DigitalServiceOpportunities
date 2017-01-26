@@ -14,11 +14,7 @@
 
 Part of California's [Government Operations Agency](http://www.govops.ca.gov), the [Department of Technology](http://www.cio.ca.gov/) (CDT) is one of the largest technology suppliers for state and local government in California. Together with state agencies and entities, we deliver technology for everyone. To meet Secretary Batjer’s challenge, our department is changing: adding new skills and new capabilities to support a culture of understanding user needs – [not just government needs](https://www.gov.uk/design-principles) – and making sure we meet them.
 
-## Learn more on Wednesday 21st December, 9am Pacific
-
-On Wednesday (12/21/16) at 9 AM Pacific, California's Department of Technology will host a [Q & A session](https://attendee.gotowebinar.com/register/4914661224945424642) with the Government Operations Agency and the Office of Systems Integration to discuss digital services opportunities in California. Be sure to [register](https://attendee.gotowebinar.com/register/4914661224945424642) for the Q & A.   
-
-We'll cover topics like:
+## Learn more about the hiring process and employee benefits
 
 * [the hiring process](/files/GUIDE-CAStateHiringProcess12-19-16.pdf) (PDF)
 * [hiring FAQs](/files/FAQ-CAStateHiringProcess12-19-16.pdf) (PDF) and
@@ -42,7 +38,7 @@ But, there's a lot more to do.
 
 ## Join us
 
-Our work in modernizing and building delivering new digital services for the state means we need people who're experienced in designing and delivering shared services across multiple technical platforms.  
+Our work in modernizing, building and delivering new digital services for the state means we need people experienced in designing and delivering shared services across multiple technical platforms.  
 
 Across the Department of Technology, the Office for Systems Integration and new teams like the Child Welfare Digital Service, we're looking for researchers, designers, content designers, strategists, architects, developers and more to deliver digital services that meet user needs.
 
