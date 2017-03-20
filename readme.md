@@ -192,35 +192,7 @@ For reference only, see the [GDS job description for Junior Visual designer](/ro
 
 Separate from the above digital service opportunities, open positions are posted on the Department of Technology website. If you’re interested in building a career, you can [learn how to become a permanent employee](http://cio.ca.gov/About/Careers/index.html) with the State of California. You can also find out about the benefits the State offers, like retirement, healthcare, and learn about the stability of working for the public sector.
 
-The below positions are open as of 8 December, 2016. They are in the Sacramento region at CDT project sites.
-
 Current vacancies are [updated daily](http://cio.ca.gov/About/JobOpenings.asp) on the CDT website.
-
-### Digital services
-
-* [Systems Software Specialist II (Tech) will consider Systems Software Specialist I (Tech)](http://www.cio.ca.gov/pdf/jobs/16-097-job.pdf)
-
-### IT procurement and oversight
-
-* [Data Processing Manager III](http://www.cio.ca.gov/pdf/jobs/16-090-job.pdf)
-* [Senior Information Systems Analyst (Specialist) / May consider Staff Information Systems Analyst (Specialist)](http://www.cio.ca.gov/pdf/jobs/16-040-job.pdf)
-* [Staff Information Systems Analyst (Specialist)](http://www.cio.ca.gov/pdf/jobs/16-037-job.pdf)
-
-### Network engineering
-
-* [Systems Software Specialist III (Technical), Will Consider a SSS II (Technical)](http://www.cio.ca.gov/pdf/jobs/15-250-JOB.pdf)
-* [Systems Software Specialist III (Technical), will consider Systems Software Specialist II (Technical)](http://www.cio.ca.gov/pdf/jobs/16-107-job.pdf)
-
-### Mainframe and operating system support
-
-* [Systems Software Specialist III (Technical)](http://www.cio.ca.gov/pdf/jobs/16-093-job.pdf)
-
-### Database products (IBM DB2 and CICS)
-
-* [Systems Software Specialist III (Supervisory)](http://www.cio.ca.gov/pdf/jobs/16-003-job.pdf)
-* [Systems Software Specialist III (Technical)](http://www.cio.ca.gov/pdf/jobs/16-087-job.pdf)
-* [Systems Software Specialist III (Technical)](http://www.cio.ca.gov/pdf/jobs/16-088-job.pdf)
-* [Systems Software Specialist I (Technical) Will Consider Associate Systems Software Specialist (Technical)](http://www.cio.ca.gov/pdf/jobs/15-255-job.pdf)
 
 ## Future open positions at the California Department of Technology
 
