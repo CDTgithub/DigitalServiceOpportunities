@@ -77,7 +77,7 @@ These opportunities are on-site in the Sacramento region and are appointed by, a
 * implement policy in support of the state’s agile, cloud, and open source initiatives
 * promote innovation and agility in the delivery of government services 
 
-For reference see the [Chief Technology Officer Duty Statement](/roles/CTO.pdf).
+For reference see the [Chief Technology Officer duty statement](/roles/CTO.pdf).
 
 ### 2. Chief of Statewide Project Delivery
 
@@ -85,7 +85,7 @@ For reference see the [Chief Technology Officer Duty Statement](/roles/CTO.pdf).
 * engage multi-disciplinary teams to successfully deliver digital technology projects
 * implement California's cross-government strategy and policy for agile development and procurement
 
-For reference see the [Chief of Statewide Project Delivery Duty Statement](/roles/ChiefStatewideProjectDelivery.pdf).
+For reference see the [Chief of Statewide Project Delivery duty statement](/roles/ChiefStatewideProjectDelivery.pdf).
 
 ## Digital service pool opportunities
 
