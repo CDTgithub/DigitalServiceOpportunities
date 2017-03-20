@@ -65,6 +65,27 @@ Join us, and help deliver simpler, clearer, faster digital services for everyone
 [Join our mailing list](http://eepurl.com/csUbhb) to get updates about new opportunities and positions.
 
 * * *
+## Technology Executive opportunities
+
+These opportunities are on-site in the Sacramento region and are appointed by, and server at the pleasure of, the Governor.
+
+### 1. Chief Technology Officer
+
+* lead the state's strategy for technology services
+* ensure the efficiency, security, and reliability of technology services that serve nearly 40 million Californians
+* set standards for technology to enable government agencies to meet user needs
+* implement policy in support of the state’s agile, cloud, and open source initiatives
+* promote innovation and agility in the delivery of government services 
+
+For reference see the [Chief Technology Officer Duty Statement](/roles/GDSUserResearcher.md).
+
+### 2. Chief of Statewide Project Delivery
+
+* oversee the state's $3 billion digital technology project portfolio
+* engage multi-disciplinary teams to successfully deliver digital technology projects
+* implement California's cross-government strategy and policy for agile development and procurement.
+
+For reference see the [Chief of Statewide Project Delivery Duty Statement](/roles/GDSDesigner.md).
 
 ## Digital service pool opportunities
 
@@ -86,6 +107,7 @@ For reference only, see the [U.K. Government Digital Service (GDS) job descripti
 * create and rapidly iterate service prototypes
 * engage whole multi-disciplinary teams with the design process
 * identify, design and set California cross-government service design standards and patterns
+
 For reference only, see the [GDS job description for Designer](/roles/GDSDesigner.md).
 
 ### 3. Principal, Content Designer
