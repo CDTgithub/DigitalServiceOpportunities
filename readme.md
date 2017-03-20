@@ -48,15 +48,16 @@ Join us, and help deliver simpler, clearer, faster digital services for everyone
 
 ### 1. Read the opportunities, open positions and future open positions below
 
-* They're all on-site in the Sacramento region with flexibility for remote work.
+* They're all on-site in the Sacramento region with some flexibility for remote work.
 
 ### 2. Have a question?
  * [Submit a Github Issue](https://github.com/CDTgithub/DigitalServiceOpportunities/issues) (we'd prefer that, to keep things in the open)
  * If it's something you'd like to keep private, then send an email to [Melissa Matsuura](mailto:Melissa.Matsuura@state.ca.gov)
 
 ### 3. To apply for a...
- * digital service pool opportunity, email [Adrian Farley](mailto:Adrian.Farley@state.ca.gov?subject=Digital service pool opportunity) with your resume and a note about which opportunity you're applying for
- * digital service team ([California Child Welfare Digital Service](https://cwds.ca.gov)) opportunity, email [Adrian Farley](mailto:Adrian.Farley@state.ca.gov?subject=Digital service team opportunity) with your resume and a note about which opportunity you're applying for
+* technology executive opportunity, email [Adrian Farley](mailto:Adrian.Farley@state.ca.gov) with your resume and a note about which opportunity you're applying for
+ * digital service pool opportunity, email [Adrian Farley](mailto:Adrian.Farley@state.ca.gov) with your resume and a note about which opportunity you're applying for
+ * digital service team ([California Child Welfare Digital Service](https://cwds.ca.gov)) opportunity, email [Adrian Farley](mailto:Adrian.Farley@state.ca.gov) with your resume and a note about which opportunity you're applying for
  * open or future California Department of Technology position, email [Melissa Matsuura](mailto:Melissa.Matsuura@state.ca.gov) to get started
 
 ## Get updates about new opportunities and positions
