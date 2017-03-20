@@ -85,7 +85,7 @@ For reference see the [Chief Technology Officer Duty Statement](/roles/CTO.pdf).
 * engage multi-disciplinary teams to successfully deliver digital technology projects
 * implement California's cross-government strategy and policy for agile development and procurement
 
-For reference see the [Chief of Statewide Project Delivery Duty Statement](/roles/GDSDesigner.md ).
+For reference see the [Chief of Statewide Project Delivery Duty Statement](/roles/ChiefStatewideProjectDelivery.pdf).
 
 ## Digital service pool opportunities
 
