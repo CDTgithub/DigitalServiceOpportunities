@@ -69,17 +69,7 @@ Join us, and help deliver simpler, clearer, faster digital services for everyone
 
 These opportunities are on-site in the Sacramento region and are appointed by, and server at the pleasure of, the Governor.
 
-### 1. Chief Technology Officer
-
-* serve nearly 40 million Californians through efficient, secure, and reliabile technology services 
-* lead the state's strategy for technology services
-* set standards for technology to enable government agencies to meet user needs
-* implement policy in support of the state’s agile, cloud, and open source initiatives
-* promote innovation and agility in the delivery of government services 
-
-For reference see the [Chief Technology Officer duty statement](/roles/CTO.pdf).
-
-### 2. Chief of Statewide Project Delivery
+### Chief of Statewide Project Delivery
 
 * oversee the state's $3 billion digital technology project portfolio
 * engage multi-disciplinary teams to successfully deliver digital technology projects
