@@ -55,7 +55,6 @@ Join us, and help deliver simpler, clearer, faster digital services for everyone
  * If it's something you'd like to keep private, then send an email to [Melissa Matsuura](mailto:Melissa.Matsuura@state.ca.gov)
 
 ### 3. To apply for a...
-* executive opportunity, email [Adrian Farley](mailto:Adrian.Farley@state.ca.gov) with your resume and a note about which opportunity you're applying for
  * digital service pool opportunity, email [Adrian Farley](mailto:Adrian.Farley@state.ca.gov) with your resume and a note about which opportunity you're applying for
  * digital service team ([California Child Welfare Digital Service](https://cwds.ca.gov)) opportunity, email [Adrian Farley](mailto:Adrian.Farley@state.ca.gov) with your resume and a note about which opportunity you're applying for
  * open or future California Department of Technology position, email [Melissa Matsuura](mailto:Melissa.Matsuura@state.ca.gov) to get started
