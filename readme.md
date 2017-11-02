@@ -64,19 +64,6 @@ Join us, and help deliver simpler, clearer, faster digital services for everyone
 
 [Join our mailing list](http://eepurl.com/csUbhb) to get updates about new opportunities and positions.
 
-* * *
-## Executive opportunities
-
-These opportunities are on-site in the Sacramento region and are appointed by, and server at the pleasure of, the Governor.
-
-### Chief of Statewide Project Delivery
-
-* oversee the state's $3 billion digital technology project portfolio
-* engage multi-disciplinary teams to successfully deliver digital technology projects
-* implement California's cross-government strategy and policy for agile development and procurement
-
-For reference see the [Chief of Statewide Project Delivery duty statement](/roles/ChiefStatewideProjectDelivery.pdf).
-
 ## Digital service pool opportunities
 
 These opportunities are on-site in the Sacramento region, with flexibility for remote work.
